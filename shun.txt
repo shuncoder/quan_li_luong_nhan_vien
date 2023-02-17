@@ -1,1 +1,31 @@
-test in ra file txt mẫu lương của nhân viên
+Employee Details:
+---------------
+Name: John Smith
+ID: 1001
+Position: Staff
+Salary: 2000.0
+
+Manager Details:
+---------------
+Name: Alice Johnson
+ID: 1002
+Position: Manager
+Salary: 3000.0
+Bonus: 1000.0
+
+Salesperson Details:
+---------------
+Name: Bob Brown
+ID: 1003
+Position: Salesperson
+Salary: 2500.0
+Commission: 500.0
+
+Software Engineer Details:
+---------------
+Name: Sarah Lee
+ID: 1004
+Position: Software Engineer
+Salary: 3500.0
+Years of experience: 5
+
